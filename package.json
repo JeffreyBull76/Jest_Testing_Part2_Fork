@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing_part2_fork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyBull76/Jest_Testing_Part2_Fork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyBull76/Jest_Testing_Part2_Fork/issues"
+  },
+  "homepage": "https://github.com/JeffreyBull76/Jest_Testing_Part2_Fork#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
